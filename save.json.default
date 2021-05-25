@@ -1,0 +1,8 @@
+{
+  "usersMuted": false,
+  "defaultServer": {
+    "muteRole": 0,
+    "muteList": []
+  },
+  "servers": {}
+}
